@@ -1,2 +1,2 @@
 # ES-I ⚙️🖥️
-Repositório de códigos da disciplina de Algoritmos e Estrutura de Dados III
+Repositório de códigos da disciplina de Engenharia de Software I
